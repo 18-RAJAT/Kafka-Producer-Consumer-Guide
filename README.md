@@ -5,7 +5,8 @@
 This tutorial covers the Kafka producer and consumer workflow using the command-line interface (CLI). It is recommended to watch the previous video on Kafka components and architecture before proceeding.
 ---
 
-![PC](https://github.com/user-attachments/assets/b74d6009-b79c-4831-9c49-126b82af9b20)
+
+![Npc](https://github.com/user-attachments/assets/1ea2caeb-1893-4f03-97ec-1237505dd80c)
 
 ## Setting up Kafka Ecosystem
 
